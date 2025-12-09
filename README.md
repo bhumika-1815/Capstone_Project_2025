@@ -1,4 +1,4 @@
-# NYC COVID-19 Data Analysis Capstone Project
+# NYC COVID-19 Geospatial Analysis Capstone Project
 
 ## Project Overview
 This capstone project analyzes COVID-19 case rates across New York City ZIP Code Tabulation Areas (ZCTAs) and examines their relationship with demographic and socioeconomic factors such as population density, median income, and racial composition.
